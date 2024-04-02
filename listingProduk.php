@@ -1,7 +1,7 @@
 <?php
-$namaproduk1 = "Crewneck Fantasy";
 $deskripsi = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
 dignissimos accusantium amet similique velit iste.";
+$namaproduk1 = "Crewneck Fantasy";
 $harga1 = "IDR 209.000";
 $namaproduk2 = "Jacket RRQ RESURGENCE 2023";
 $harga2 = "IDR 599.000";
